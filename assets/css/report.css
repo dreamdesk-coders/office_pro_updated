@@ -1,0 +1,189 @@
+  
+  body{
+    background-color: gray !important;
+    overflow-x: hidden !important;
+  }
+
+  .nav-bar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 50px;
+    width: 100%;
+    z-index: 2;
+    overflow: hidden;
+    /* background-color: rgb(73, 125, 255); */
+    -webkit-backdrop-filter: saturate(180%) blur(10px);
+    backdrop-filter: saturate(180%) blur(10px);
+    background-color: rgba(73, 125, 255,0.72);
+    transition-property: background-color, backdrop-filter, -webkit-backdrop-filter;
+    border-bottom: 1px solid #bdbdbd;
+    padding:5px;
+  }
+  
+  .nav-bar button {
+  float : right !important;
+  margin-right : 10px;
+  }
+
+  .voucher {
+   background-color: white;
+   margin:auto;
+   position: relative;
+   top: 125px;
+   width: 95%;
+  }
+  
+  table.print-content {
+    line-height: 3;
+    width: 90%;
+    margin: auto;
+  }
+
+  table .print-content thead{
+    background-color: #597edc;
+    color : white;
+    line-height: 2;
+    }
+  
+  table.print-content th,
+  table.print-content td {
+    padding: .2rem .4rem;
+    text-align: left;
+    vertical-align: top;
+    border-top: 1px solid #dee2e6;
+  }
+
+  /* extra */
+
+.heading{
+    width: 100%;
+    height: auto;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    vertical-align: baseline;
+    align-items: flex-end;
+    align-content: center;
+    justify-content: center;
+    margin-top: 40px;
+  }
+
+  .heading h3{
+      position: relative;
+      left: 20px;
+  }
+
+
+  .voucher-logo{
+      width: auto;
+  }
+  
+
+  .address{
+    width : 100%;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    vertical-align: baseline;
+    align-items: flex-end;
+    align-content: center;
+    justify-content: center;
+    }
+
+    .title{
+      text-align: center !important;
+    }
+  
+
+    .top-data th{
+    width : 150px !important;
+    }
+
+    .head-data{
+        padding-left: 50px !important;
+    }
+    
+    .foot-div{
+      padding-bottom: 200px;
+    }
+
+    .normal-footer{
+      width: 100%;
+      padding: 20px;
+      margin : auto;
+    }
+
+    .print-footer{
+      padding: 45px;
+    }
+
+    .groupby{
+        position: relative;
+        left : 71px;
+        line-height: 2;
+    }
+
+    .type-box{
+        background: #5a7edb;
+        padding: 13px;
+        color: white;
+        }
+
+    
+  
+  @media print {
+    .print-footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+    }
+
+    .footer-space{
+      height: 1cm;
+    }
+    
+    .no-print {
+      display: none
+    }
+
+    .voucher{
+        top : 0px;
+        width: 100%;
+    }
+
+    table .print-content thead{
+      background-color:gray;
+      color : black;
+      }
+    
+      .heading{
+        margin-top: 30px;
+      }
+
+     
+    table.print-content{
+        line-height : 2;
+    }
+
+    /* @page {
+        size: A4 landscape;
+    } */
+    @page {
+        size: auto;
+      }
+
+      .groupby{
+        left : 58px;
+      }
+
+      .type-box{
+        color: black;
+        border : 1px solid black;
+      }
+      
+  }
+
+
+  

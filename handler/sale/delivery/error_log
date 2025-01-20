@@ -1,0 +1,78 @@
+[21-Apr-2024 14:45:03 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[21-Apr-2024 14:49:47 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[21-Apr-2024 14:52:16 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[21-Apr-2024 14:54:48 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[21-Apr-2024 14:58:45 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[21-Apr-2024 15:07:19 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[21-Apr-2024 15:13:24 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[21-Apr-2024 15:19:14 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[16-Sep-2024 09:20:32 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[16-Sep-2024 09:29:25 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[16-Sep-2024 09:30:56 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry 'DSSPT09162024/028' for key 'delivery.PRIMARY' in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(128): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[16-Sep-2024 09:32:51 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23
+[16-Sep-2024 09:35:06 Asia/Yangon] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000]: General error: 1364 Field 'exchange_rate' doesn't have a default value in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php:23
+Stack trace:
+#0 /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php(23): PDOStatement->execute()
+#1 /home/yinyinkyaw/public_html/officepro/handler/sale/delivery/delivery_handler.php(157): execute_query(Object(PDO), Object(PDOStatement))
+#2 {main}
+  thrown in /home/yinyinkyaw/public_html/officepro/handler/common/common_functions.php on line 23

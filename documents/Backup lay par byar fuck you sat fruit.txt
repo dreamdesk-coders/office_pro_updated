@@ -1,0 +1,1135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600;700&display=swap');
+    </style>
+
+
+    <title>Office Pro | Dream Desk</title>
+
+    <link rel="icon" href="assets/images/logo.png" type="image/ico">
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/font-awesome.css">
+
+    <link rel="stylesheet" href="assets/css/templatemo-softy-pinko.css">
+
+</head>
+
+<body>
+
+    <!-- ***** Preloader Start ***** -->
+    <div id="preloader">
+        <div class="jumper">
+            <div></div>
+            <div></div>
+            <div></div>
+        </div>
+    </div>
+    <!-- ***** Preloader End ***** -->
+
+
+    <!-- ***** Header Area Start ***** -->
+    <header class="header-area header-sticky">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-12">
+                    <nav class="main-nav">
+                        <!-- ***** Logo Start ***** -->
+                        <a href="#" class="logo">
+                            <img src="assets/images/logo.png" alt="Office Pro" />
+                            <span style="font-weight: bold;">Office Pro</span>
+                        </a>
+                        <!-- ***** Logo End ***** -->
+                        <!-- ***** Menu Start ***** -->
+                        <ul class="nav">
+                            <li><a href="#welcome">Home</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#features">Features</a></li>
+                            <!-- <li><a href="#testimonials">Testimonials</a></li> -->
+                            <li><a href="#pricing-plans">Pricing Tables</a></li>
+                            <!-- <li><a href="#blog">Blog Entries</a></li> -->
+                            <li><a href="#contact-us">Contact Us</a></li>
+                        </ul>
+                        <a class='menu-trigger'>
+                            <span>Menu</span>
+                        </a>
+                        <!-- ***** Menu End ***** -->
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- ***** Header Area End ***** -->
+
+    <!-- ***** Welcome Area Start ***** -->
+    <div class="welcome-area" id="welcome">
+
+        <!-- ***** Header Text Start ***** -->
+        <div class="header-text">
+            <div class="container">
+                <div class="row">
+                    <div class="offset-xl-3 col-xl-6 offset-lg-2 col-lg-8 col-md-12 col-sm-12">
+                        <h1>Simplify the working process</h1>
+                        <p>Office Pro takes the next big step for your business.</p>
+                        <input class="bridge-input" placeholder="Type your domain name ..." /><br><br>
+                        <button class="btn btn-primary my-submit pt-2 pb-2">Let's Rock !</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- ***** Header Text End ***** -->
+    </div>
+    <!-- ***** Welcome Area End ***** -->
+
+    <!-- ***** Features Small Start ***** -->
+    <section class="section home-feature">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="row">
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                            <div class="features-small-item">
+                                <div class="stand-out-container">
+                                    <div class="stand-out icon">
+                                        <img src="assets/images/icon/dollar.svg">
+                                    </div>
+                                </div>
+                                <h5 class="features-title">Affordable</h5>
+                                <p>Built to be affordable and yet powerful</p>
+                            </div>
+                        </div>
+                        <!-- ***** Features Small Item End ***** -->
+
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                            <div class="features-small-item">
+                                <div class="stand-out-container">
+                                    <div class="stand-out icon">
+                                        <img src="assets/images/icon/bolt.svg">
+                                    </div>
+                                </div>
+                                <h5 class="features-title">Light & Fast</h5>
+                                <p>Created everything for easy and fast access</p>
+                            </div>
+                        </div>
+                        <!-- ***** Features Small Item End ***** -->
+
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
+                            <div class="features-small-item">
+                                <div class="stand-out-container">
+                                    <div class="stand-out icon">
+                                        <img src="assets/images/icon/globe.svg">
+                                    </div>
+                                </div>
+                                <h5 class="features-title">Work Anywhere</h5>
+                                <p>Work from anywhere around the world</p>
+                            </div>
+                        </div>
+
+                        <!-- ***** Features Small Item End ***** -->
+
+                        <!-- ***** Features Small Item Start ***** -->
+                        <div class="col-lg-3 col-md-6 col-sm-6 col-12" data-scroll-reveal="enter bottom move 50px over 0.8s after 0.8s">
+                            <div class="features-small-item">
+                                <div class="stand-out-container">
+                                    <div class="stand-out icon">
+                                        <img src="assets/images/icon/bulb.svg">
+                                    </div>
+                                </div>
+                                <h5 class="features-title">Easy to use</h5>
+                                <p>Designed to be simple and easy for everyone</p>
+                            </div>
+                        </div>
+
+                        <!-- ***** Features Small Item End ***** -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Small End ***** -->
+
+
+    <section class="section padding-top-70 padding-bottom-0" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 mt-5">
+                    <h1 class="text-center typo-md mt-0 mb-0 highlight">It's more than just a software.</h1>
+                    <br>
+                    <!-- <img src="assets/images/laptop-background.png" class="laptop-background"> -->
+                    <video autoplay muted loop id="myVideo" class="laptop-background">
+                        <source src="assets/images/background-video.mp4" type="video/mp4">
+                        Your browser does not support HTML5 video.
+                    </video>
+                    <br>
+                    <h5 class="text-center p-highlight">Office Pro is designed to be simple, powerful and it's much affordable compare to others. It can help your working process much easier and simpler. We focus alot on how you interact with Office Pro and thus we made even the smallest
+                        detail of Office Pro to be simple and clear.</h5>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section padding-top-70 padding-bottom-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <br>
+                    <h1 class="text-center typo-sm">Let's see what's in the box!</h1>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/sale_module.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                    <div class="left-heading">
+                        <h2 class="section-title mb-0"><b>Sale Module</b></h2>
+                    </div>
+                    <div class="left-text">
+                        <span class="mb-0 mt-0">Take the full control of your daily sale transactions with just a
+                            tap. It's now easier than ever to track your sale growth, market demand and helping you
+                            achieve marketing strategies simply.</span>
+                        <!-- <p><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</b></p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-bottom-100">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-bottom-fix">
+                    <div class="left-heading">
+                        <h2 class="section-title mb-0"><b>Inventory Module</b></h2>
+                    </div>
+                    <div class="left-text">
+                        <span class="mb-0 mt-0">Now you have full ability to know everything about your inventory just
+                            from your home. All the modules and features of Office Pro work together seamlessly just to
+                            simplify your daily working process.</span>
+                        <!-- <p><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</b></p> -->
+                    </div>
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center mobile-bottom-fix-big" data-scroll-reveal="enter right move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/inventory_module.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+
+    <!-- ***** Features Big Item Start ***** -->
+    <section class="section padding-top-70 padding-bottom-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-md-12 col-sm-12 align-self-center" data-scroll-reveal="enter left move 30px over 0.6s after 0.4s">
+                    <img src="assets/images/purchase_module.png" class="rounded img-fluid d-block mx-auto" alt="App">
+                </div>
+                <div class="col-lg-1"></div>
+                <div class="col-lg-6 col-md-12 col-sm-12 align-self-center mobile-top-fix">
+                    <div class="left-heading">
+                        <h2 class="section-title mb-0"><b>Purchase Module</b></h2>
+                    </div>
+                    <div class="left-text">
+                        <span class="mb-0 mt-0">The powerful combination of sale and inventory modules let you decide
+                            easily
+                            what to purchase next. Office Pro is designed to let you know all the precious information
+                            about your business at a galance.</span>
+                        <!-- <p><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                            Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</b></p> -->
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="hr"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Features Big Item End ***** -->
+
+    <!-- ***** Home Parallax Start ***** -->
+    <section class="section mini" id="features" data-bg="#487eff">
+        <div class="mini-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h1 class="text-center typo-sm text-white">Features</h1>
+                        <p class="text-center text-light mt-0">Explore the features of Office Pro in it's three main modules
+                        </p>
+                    </div>
+                </div>
+                <br><br>
+                <!-- ***** Mini Box Start ***** -->
+                <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <h4 class="mb-3 text-light">Sale Module</h4>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale.svg" alt=""></i>
+                            <span>Direct Sale</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale.svg" alt=""></i>
+                            <span>Advance Sale</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale_return.svg" alt=""></i>
+                            <span>Sale Return</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale_order.svg" alt=""></i>
+                            <span>Sale Order</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale_order_cancel.svg" alt=""></i>
+                            <span>Sale Order Cancel</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/delivery_order.svg" alt=""></i>
+                            <span>Delivery Order</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/delivery_order_cancel.svg" alt=""></i>
+                            <span>Delivery Order Cancel</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/delivery.svg" alt=""></i>
+                            <span>Delivery Sale</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-7 col-md-3 col-sm-6 col-6"></div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <h4 class="mb-3 text-light">Sale Reports</h4>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale.svg" alt=""></i>
+                            <span>Sale Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/reports/sale/top_sale_n_delivery.svg" alt=""></i>
+                            <span>Top Sale Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/master/customer.svg" alt=""></i>
+                            <span>Top Customer Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale_return.svg" alt=""></i>
+                            <span>Sale Return Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale_order.svg" alt=""></i>
+                            <span>Sale Order Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/delivery_order.svg" alt=""></i>
+                            <span>Delivery Order Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/delivery_order_cancel.svg" alt=""></i>
+                            <span>Delivery Order Cancel Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/sale_order_cancel.svg" alt=""></i>
+                            <span>Sale Order Cancel Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/reports/sale/customer_credit.svg" alt=""></i>
+                            <span>Customer Credit Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/reports/sale/not_sale.svg" alt=""></i>
+                            <span>Not Sale Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <h4 class="mb-3 text-light">Inventory Module</h4>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/stock_receive.svg" alt=""></i>
+                            <span>Stock Receive</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/stock_issue.svg" alt=""></i>
+                            <span>Stock Issue</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/stock_transfer.svg" alt=""></i>
+                            <span>Stock Transfer</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/master/office.svg" alt=""></i>
+                            <span>Office Use</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/repack.svg" alt=""></i>
+                            <span>Stock Repacking</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/damage.svg" alt=""></i>
+                            <span>Stock Damage</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/present.svg" alt=""></i>
+                            <span>Present</span>
+                        </a>
+                    </div>
+
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/opening.svg" alt=""></i>
+                            <span>Opening Stock</span>
+                        </a>
+                    </div>
+
+                    <!-- <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/work-process-item-01.png" alt=""></i>
+                            <span>Marketing</span>
+                        </a>
+                    </div> -->
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <h4 class="mb-3 text-light">Inventory Reports</h4>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/stock_receive.svg" alt=""></i>
+                            <span>Stock Receive Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/stock_issue.svg" alt=""></i>
+                            <span>Stock Issue Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/stock_transfer.svg" alt=""></i>
+                            <span>Stock Transfer Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/master/office.svg" alt=""></i>
+                            <span>Office Use Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/damage.svg" alt=""></i>
+                            <span>Damage Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/inventory/present.svg" alt=""></i>
+                            <span>Present Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-6 col-md-3 col-sm-6 col-6"></div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <h4 class="mb-3 text-light">Purchase Module</h4>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase.svg" alt=""></i>
+                            <span>Direct Purchase</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase.svg" alt=""></i>
+                            <span>Advance Purchase</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase_return.svg" alt=""></i>
+                            <span>Purchase Return</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase_order.svg" alt=""></i>
+                            <span>Purchase Order</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase_order_cancel.svg" alt=""></i>
+                            <span>Purchase Order Cancel</span>
+                        </a>
+                    </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <h4 class="mb-3 text-light">Purchase Reports</h4>
+                    </div>
+
+                    <div class="col-lg-2 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase.svg" alt=""></i>
+                            <span>Purchase Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase_return.svg" alt=""></i>
+                            <span>Purchase Return Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase_order.svg" alt=""></i>
+                            <span>Purchase Order Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/purchase/purchase_order_cancel.svg" alt=""></i>
+                            <span>Purchase Order Cancel Summary Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/reports/purchase/top_purchase.svg" alt=""></i>
+                            <span>Top Purchase Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/master/supplier.svg" alt=""></i>
+                            <span>Top Supplier Report</span>
+                        </a>
+                    </div>
+
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/reports/purchase/supplier_credit.svg" alt=""></i>
+                            <span>Supplier Credit Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-1 col-md-12 col-sm-12 col-12"></div>
+
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-12">
+                        <h4 class="mb-3 text-light">General Reports</h4>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/reports/general/cashbalance.svg" alt=""></i>
+                            <span>Cash Balance Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/reports/general/stockbalance.svg" alt=""></i>
+                            <span>Stock Balance Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/sale/delivery.svg" alt=""></i>
+                            <span>Deivery Pending Report</span>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+                        <a href="#" class="mini-box">
+                            <i><img src="assets/images/expenses/expense.svg" alt=""></i>
+                            <span>Daily Expense Report</span>
+                        </a>
+                    </div>
+
+
+
+                </div>
+                <!-- ***** Mini Box End ***** -->
+            </div>
+        </div>
+    </section>
+    <!-- ***** Home Parallax End ***** -->
+
+    <!-- ***** Testimonials Start ***** -->
+    <section class="section" id="testimonials@" style="display: none;">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center-heading">
+                        <h2 class="section-title">What do they say?</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text">
+                        <p>Donec tempus, sem non rutrum imperdiet, lectus orci fringilla nulla, at accumsan elit eros a turpis. Ut sagittis lectus libero.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+
+            <div class="row">
+                <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/testimonial-icon.png" alt=""></i>
+                            <p>Proin a neque nisi. Nam ipsum nisi, venenatis ut nulla quis, egestas scelerisque orci. Maecenas a finibus odio.</p>
+                            <div class="user-image">
+                                <img src="http://placehold.it/60x60" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name">Catherine Soft</h3>
+                                <span>Managing Director</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+
+                <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/testimonial-icon.png" alt=""></i>
+                            <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
+                            <div class="user-image">
+                                <img src="http://placehold.it/60x60" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name">Kelvin Wood</h3>
+                                <span>Digital Marketer</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+
+                <!-- ***** Testimonials Item Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="team-item">
+                        <div class="team-content">
+                            <i><img src="assets/images/testimonial-icon.png" alt=""></i>
+                            <p>Quisque diam odio, maximus ac consectetur eu, auctor non lorem. Cras quis est non ante ultrices molestie. Ut vehicula et diam at aliquam.</p>
+                            <div class="user-image">
+                                <img src="http://placehold.it/60x60" alt="">
+                            </div>
+                            <div class="team-info">
+                                <h3 class="user-name">David Martin</h3>
+                                <span>Website Manager</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- ***** Testimonials Item End ***** -->
+            </div>
+        </div>
+    </section>
+    <!-- ***** Testimonials End ***** -->
+
+    <!-- ***** Pricing Plans Start ***** -->
+    <section class="section colored" id="pricing-plans">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center-heading">
+                        <h2 class="section-title">Pricing Plans</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text">
+                        <p>Choose the plan that fit your business. Call Us <a href="tel:+959254211446">+95
+                                9254211446</a></p>
+                        <p class="mb-0" style="color: red;">** Initial software setup may apply charges.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+
+            <div class="row">
+                <!-- ***** Pricing Item Start ***** -->
+                <div class="col-lg-3 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.2s">
+                    <div class="pricing-item">
+                        <div class="pricing-header">
+                            <h3 class="pricing-title"><b>Alpha</b></h3>
+                        </div>
+                        <div class="pricing-body">
+                            <div class="price-wrapper alpha">
+                                <!-- <span class="currency">MMK </span> -->
+                                <span class="price">90000 MMK</span>
+                                <span class="period">3 Month</span>
+                            </div>
+                            <ul class="list">
+                                <li class="active">3 Office</li>
+                                <li class="active">Sale Module</li>
+                                <li class="active">Inventory Module</li>
+                                <li class="active">Purchase Module</li>
+                                <li class="active">Reports Module</li>
+                                <li class="active">Mon - Fri Support</li>
+                                <li>Just In Time Support</li>
+                                <li>Data Backup</li>
+                            </ul>
+                        </div>
+                        <!-- <div class="pricing-footer">
+                            <a href="#" class="main-button">Purchase Now</a>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- ***** Pricing Item End ***** -->
+
+                <!-- ***** Pricing Item Start ***** -->
+                <div class="col-lg-3 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.4s">
+                    <div class="pricing-item active">
+                        <div class="pricing-header">
+                            <h3 class="pricing-title"><b>Platinum</b></h3>
+                        </div>
+                        <div class="pricing-body">
+                            <div class="price-wrapper platinum">
+                                <!-- <span class="currency">MMK </span> -->
+                                <span class="price text-dark">170000 MMK</span>
+                                <span class="period text-dark">6 Month</span>
+                            </div>
+                            <ul class="list">
+                                <li class="active">3 Office</li>
+                                <li class="active">Sale Module</li>
+                                <li class="active">Inventory Module</li>
+                                <li class="active">Purchase Module</li>
+                                <li class="active">Reports Module</li>
+                                <li class="active">Mon - Fri Support</li>
+                                <li class="active">Just In Time Support</li>
+                                <li>Data Backup</li>
+                            </ul>
+                        </div>
+                        <!-- <div class="pricing-footer">
+                            <a href="#" class="main-button">Purchase Now</a>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- ***** Pricing Item End ***** -->
+
+                <!-- ***** Pricing Item Start ***** -->
+                <div class="col-lg-3 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.6s after 0.6s">
+                    <div class="pricing-item">
+                        <div class="pricing-header">
+                            <h3 class="pricing-title"><b>Gold</b></h3>
+                        </div>
+                        <div class="pricing-body">
+                            <div class="price-wrapper gold">
+                                <!-- <span class="currency">MMK </span> -->
+                                <span class="price">250000 MMK</span>
+                                <span class="period">9 Month</span>
+                            </div>
+                            <ul class="list">
+                                <li class="active">5 Office</li>
+                                <li class="active">Sale Module</li>
+                                <li class="active">Inventory Module</li>
+                                <li class="active">Purchase Module</li>
+                                <li class="active">Reports Module</li>
+                                <li class="active">Mon - Fri Support</li>
+                                <li class="active">Just In Time Support</li>
+                                <li>Data Backup</li>
+                            </ul>
+                        </div>
+                        <!-- <div class="pricing-footer">
+                            <a href="#" class="main-button">Purchase Now</a>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- ***** Pricing Item End ***** -->
+
+                <!-- ***** Pricing Item Start ***** -->
+                <div class="col-lg-3 col-md-6 col-sm-12" data-scroll-reveal="enter bottom move 50px over 0.8s after 0.8s">
+                    <div class="pricing-item">
+                        <div class="pricing-header">
+                            <h3 class="pricing-title"><b>Diamond</b></h3>
+                        </div>
+                        <div class="pricing-body">
+                            <div class="price-wrapper diamond">
+                                <!-- <span class="currency">MMK </span> -->
+                                <span class="price">340000 MMK</span>
+                                <span class="period">1 Year</span>
+                            </div>
+                            <ul class="list">
+                                <li class="active">5 Office</li>
+                                <li class="active">Sale Module</li>
+                                <li class="active">Inventory Module</li>
+                                <li class="active">Purchase Module</li>
+                                <li class="active">Reports Module</li>
+                                <li class="active">Mon - Fri Support</li>
+                                <li class="active">Just In Time Support</li>
+                                <li class="active">Data Backup</li>
+                            </ul>
+                        </div>
+                        <!-- <div class="pricing-footer">
+                            <a href="#" class="main-button">Purchase Now</a>
+                        </div> -->
+                    </div>
+                </div>
+                <!-- ***** Pricing Item End ***** -->
+            </div>
+        </div>
+    </section>
+    <!-- ***** Pricing Plans End ***** -->
+
+    <!-- ***** Counter Parallax Start ***** -->
+    <section class="counter" style="display: none;">
+        <div class="content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="count-item decoration-bottom">
+                            <strong>126</strong>
+                            <span>Projects</span>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="count-item decoration-top">
+                            <strong>63</strong>
+                            <span>Happy Clients</span>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="count-item decoration-bottom">
+                            <strong>18</strong>
+                            <span>Awards Wins</span>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-sm-12">
+                        <div class="count-item">
+                            <strong>27</strong>
+                            <span>Countries</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Counter Parallax End ***** -->
+
+    <!-- ***** Blog Start ***** -->
+    <section class="section" id="blog" style="display: none;">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center-heading">
+                        <h2 class="section-title">Blog Entries</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text">
+                        <p>Integer molestie aliquam gravida. Nullam nec arcu finibus, imperdiet nulla vitae, placerat nibh. Cras maximus venenatis molestie.</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-01.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Vivamus ac vehicula dui</a>
+                            </h3>
+                            <div class="text">
+                                Cras aliquet ligula dui, vitae fermentum velit tincidunt id. Praesent eu finibus nunc. Nulla in sagittis eros. Aliquam egestas augue.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-02.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Phasellus convallis augue</a>
+                            </h3>
+                            <div class="text">
+                                Aliquam commodo ornare nisl, et scelerisque nisl dignissim ac. Vestibulum finibus urna ut velit venenatis, vel ultrices sapien mattis.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <div class="blog-post-thumb">
+                        <div class="img">
+                            <img src="assets/images/blog-item-03.png" alt="">
+                        </div>
+                        <div class="blog-content">
+                            <h3>
+                                <a href="#">Nam gravida purus non</a>
+                            </h3>
+                            <div class="text">
+                                Maecenas eu erat vitae dui convallis consequat vel gravida nulla. Vestibulum finibus euismod odio, ut tempus enim varius eu.
+                            </div>
+                            <a href="#" class="main-button">Read More</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- ***** Blog End ***** -->
+
+    <!-- ***** Contact Us Start ***** -->
+    <section class="section colored mt-0 pt-0" id="contact-us">
+        <div class="container">
+            <!-- ***** Section Title Start ***** -->
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="center-heading">
+                        <h2 class="section-title">Talk with us</h2>
+                    </div>
+                </div>
+                <div class="offset-lg-3 col-lg-6">
+                    <div class="center-text">
+                        <p>Contact us for more information about Office Pro</p>
+                    </div>
+                </div>
+            </div>
+            <!-- ***** Section Title End ***** -->
+
+            <div class="row">
+                <!-- ***** Contact Text Start ***** -->
+                <div class="col-lg-4 col-md-6 col-sm-12">
+                    <h5 class="margin-bottom-30">Keep in touch</h5>
+                    <div class="contact-text">
+                        <a href="tel:+959254211446">+95 9254211446</a>
+                        <a href="tel:+959692747161">+95 9692747161</a>
+                        <p><a href="mailto:webmaster@example.com">dreamdeskmm@gmail.com</a></p>
+                    </div>
+                </div>
+                <!-- ***** Contact Text End ***** -->
+
+                <!-- ***** Contact Form Start ***** -->
+                <div class="col-lg-8 col-md-6 col-sm-12">
+                    <div class="contact-form">
+                        <form id="contact" action="" method="get">
+                            <div class="row">
+                                <div class="col-lg-6 col-md-12 col-sm-12">
+                                    <fieldset>
+                                        <input name="name" type="text" class="form-control" id="name" placeholder="Full Name" required="">
+                                    </fieldset>
+                                </div>
+                                <div class="col-lg-6 col-md-12 col-sm-12">
+                                    <fieldset>
+                                        <input name="email" type="email" class="form-control" id="email" placeholder="E-Mail Address" required="">
+                                    </fieldset>
+                                </div>
+                                <div class="col-lg-12">
+                                    <fieldset>
+                                        <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your Message" required=""></textarea>
+                                    </fieldset>
+                                </div>
+                                <div class="col-lg-12">
+                                    <fieldset>
+                                        <button type="submit" id="form-submit" class="main-button">Send Message</button>
+                                    </fieldset>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <!-- ***** Contact Form End ***** -->
+            </div>
+        </div>
+    </section>
+    <!-- ***** Contact Us End ***** -->
+
+    <!-- ***** Footer Start ***** -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 col-md-12 col-sm-12">
+                    <ul class="social">
+                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                        <!-- <li><a href="#"><i class="fa fa-twitter"></i></a></li> -->
+                        <!-- <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
+                        <!-- <li><a href="#"><i class="fa fa-rss"></i></a></li> -->
+                        <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <p class="copyright">Copyright &copy; 2021 Dream Desk Studio</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="assets/js/jquery-2.1.0.min.js"></script>
+
+    <!-- Bootstrap -->
+    <script src="assets/js/popper.js"></script>
+    <script src="assets/js/bootstrap.min.js"></script>
+
+    <!-- Plugins -->
+    <script src="assets/js/scrollreveal.min.js"></script>
+    <script src="assets/js/waypoints.min.js"></script>
+    <script src="assets/js/jquery.counterup.min.js"></script>
+    <script src="assets/js/imgfix.min.js"></script>
+
+    <!-- Global Init -->
+    <script src="assets/js/custom.js"></script>
+    <script>
+        window.sections = [...document.querySelectorAll('.section')];
+        window.lastScrollTop = window.pageYOffset;
+
+        document.body.style.background = window.sections[0].getAttribute('data-bg');
+
+        window.addEventListener('scroll', onScroll);
+
+        function onScroll() {
+            const scrollTop = window.pageYOffset;
+
+            const section = window.sections
+                .map(section => {
+                    const el = section;
+                    const rect = el.getBoundingClientRect();
+                    return {
+                        el,
+                        rect
+                    };
+                })
+                .find(section => section.rect.bottom >= (window.innerHeight * 0.5));
+            document.body.style.background = section.el.getAttribute('data-bg');
+        }
+    </script>
+
+</body>
+
+</html>

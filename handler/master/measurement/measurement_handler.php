@@ -1,0 +1,105 @@
+<?php 
+session_start();
+
+include("../../common/connection_config.php");
+include("../../common/common_functions.php");
+
+
+if(isset($_POST['action'])){
+
+	$action = $_POST['action'];
+
+	$login_id = $_SESSION['alogin'];
+	$date = date("Y-m-d-h-i-s");
+	$transaction_id = $_POST['unit_id'];
+	$transaction = "Measurement Master";
+	$office_id = $_SESSION['office_id'];
+
+	if($action == "create"){
+
+		$unit_id = $_POST['unit_id'];
+		$description = $_POST['description'];
+		$created_date = date("Y-m-d-h-i-s");
+		$updated_date = date("Y-m-d-h-i-s");
+
+		$sql="INSERT INTO units_of_measurement(unit_id,description,created_date,updated_date) VALUES(:unit_id,:description,:created_date,:updated_date)";
+
+		$query = $dbh->prepare($sql);
+		$query->bindParam(':unit_id',$unit_id,PDO::PARAM_STR);
+		$query->bindParam(':description',$description,PDO::PARAM_STR);
+		$query->bindParam(':created_date',$created_date,PDO::PARAM_STR);
+		$query->bindParam(':updated_date',$updated_date,PDO::PARAM_STR);
+
+		execute_query($dbh,$query);
+
+		$sql="INSERT INTO transaction_log(login_id,date,transaction_id,transaction,action,office_id) VALUES(:login_id,:date,:transaction_id,:transaction,:action,:office_id)";
+
+		$query = $dbh->prepare($sql);
+		$query->bindParam(':login_id',$login_id,PDO::PARAM_STR);
+		$query->bindParam(':date',$date,PDO::PARAM_STR);
+		$query->bindParam(':transaction_id',$transaction_id,PDO::PARAM_STR);
+		$query->bindParam(':transaction',$transaction,PDO::PARAM_STR);
+		$query->bindParam(':action',$action,PDO::PARAM_STR);
+		$query->bindParam(':office_id',$office_id,PDO::PARAM_STR);
+
+		$query->execute();
+
+	}
+
+	elseif($action == "update"){
+
+		$unit_id = $_POST['unit_id'];
+		$description = $_POST['description'];
+		$updated_date = date("Y-m-d-h-i-s");
+
+		$sql="update units_of_measurement set description=:description,updated_date=:updated_date where unit_id=:unit_id";
+
+		$query = $dbh->prepare($sql);
+		$query->bindParam(':unit_id',$unit_id,PDO::PARAM_STR);
+		$query->bindParam(':description',$description,PDO::PARAM_STR);
+		$query->bindParam(':updated_date',$updated_date,PDO::PARAM_STR);
+
+		execute_query($dbh,$query);
+
+
+		$sql="INSERT INTO transaction_log(login_id,date,transaction_id,transaction,action,office_id) VALUES(:login_id,:date,:transaction_id,:transaction,:action,:office_id)";
+
+		$query = $dbh->prepare($sql);
+		$query->bindParam(':login_id',$login_id,PDO::PARAM_STR);
+		$query->bindParam(':date',$date,PDO::PARAM_STR);
+		$query->bindParam(':transaction_id',$transaction_id,PDO::PARAM_STR);
+		$query->bindParam(':transaction',$transaction,PDO::PARAM_STR);
+		$query->bindParam(':action',$action,PDO::PARAM_STR);
+		$query->bindParam(':office_id',$office_id,PDO::PARAM_STR);
+
+		$query->execute();
+
+	}
+
+	elseif($action == "delete"){
+
+		$unit_id = $_POST['unit_id'];
+
+		$sql="delete from units_of_measurement WHERE unit_id=:unit_id";
+
+		$query = $dbh->prepare($sql);
+		$query->bindParam(':unit_id',$unit_id,PDO::PARAM_STR);
+
+		execute_query($dbh,$query);
+
+		$sql="INSERT INTO transaction_log(login_id,date,transaction_id,transaction,action,office_id) VALUES(:login_id,:date,:transaction_id,:transaction,:action,:office_id)";
+
+		$query = $dbh->prepare($sql);
+		$query->bindParam(':login_id',$login_id,PDO::PARAM_STR);
+		$query->bindParam(':date',$date,PDO::PARAM_STR);
+		$query->bindParam(':transaction_id',$transaction_id,PDO::PARAM_STR);
+		$query->bindParam(':transaction',$transaction,PDO::PARAM_STR);
+		$query->bindParam(':action',$action,PDO::PARAM_STR);
+		$query->bindParam(':office_id',$office_id,PDO::PARAM_STR);
+
+		$query->execute();
+
+
+	}
+}
+
