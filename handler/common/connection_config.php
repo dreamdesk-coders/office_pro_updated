@@ -4,7 +4,7 @@
 date_default_timezone_set('Asia/Yangon');
 
 // Common route for navigation
-$common_form_route = "http://localhost/officepro/officepro";
+$common_form_route = "http://localhost/officepro";
 
 // DB credentials.
 define('DB_HOST','localhost');
