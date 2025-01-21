@@ -1,6 +1,6 @@
-# Database Maintenance Script
+# Year End Script
 
-### Disable Foreign Key Checks
+### for office pro
 ```sql
 SET FOREIGN_KEY_CHECKS=0;
 
